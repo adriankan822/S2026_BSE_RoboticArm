@@ -18,7 +18,7 @@ Directional Indicator Manual:
 |:--:|:--:|:--:|:--:|
 | Adrian Kan | Athenian School | Mechanical Engineering | Rising Junior | 
 
-![Headstone Image](pic(1).png)
+![Headstone Image](____.png)
 
 # Project Overview
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvfeW_c663hCM5n5Xrhi5lciqgewLt9cGm_YbCknblFAVR_RwUtNoqNYBgF1AwObEIRmeLzRWzFTTs/pubembed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
